@@ -1,4 +1,4 @@
 # 42-Basecamp
-Codes I made during 42 basecamp
+Codes I made during 42 basecamp.
 
-Learning Shell and C programming.
+*Learning Shell and C programming.*
